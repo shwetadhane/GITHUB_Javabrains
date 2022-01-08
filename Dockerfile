@@ -1,5 +1,5 @@
 FROM openjdk:11
 EXPOSE 9091
-ADD target/springboot-images-new.jar springboot-images-new.jar
+ADD target/Javabrain-docker-images.jar Javabrain-docker-images.jar
 
-ENTRYPOINT ["java","-jar","/springboot-images-new.jar"]
+ENTRYPOINT ["java","-jar","/Javabrain-docker-images.jar"]
