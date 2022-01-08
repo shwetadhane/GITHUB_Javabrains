@@ -1,0 +1,4 @@
+com\example\RatingsDataservice\model\UserRatings.class
+com\example\RatingsDataservice\resource\RatingResource.class
+com\example\RatingsDataservice\model\Rating.class
+com\example\RatingsDataservice\resource\RatingsDataServiceApplication.class

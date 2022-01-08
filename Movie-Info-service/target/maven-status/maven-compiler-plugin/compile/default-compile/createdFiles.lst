@@ -1,0 +1,3 @@
+com\example\MovieInfoservice\model\Movie.class
+com\example\MovieInfoservice\resource\MovieResource.class
+com\example\MovieInfoservice\resource\MovieInfoServiceApplication.class
