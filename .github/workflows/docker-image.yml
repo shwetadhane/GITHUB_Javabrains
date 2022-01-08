@@ -20,7 +20,7 @@ jobs:
         java-version: 11
 
     - name: Maven Clean Install
-      run: mvn clean install
+      run: mvn clean install -DskipTests
 
     - name: Build and Push Docker Image
       uses: mr-smithers-excellent/docker-build-push@v5

@@ -1,3 +1,15 @@
-# Microservices
-![Screenshot 2021-11-30 at 12 32 51](https://user-images.githubusercontent.com/40702606/144061535-7a42e85b-59d6-4f7f-9c35-18a48b49e6de.png)
+# Microservice - code push on GitHub - Build the code using Jenkins and create it's docker image
 
+GitHub Repository :
+1. Create new repository on github
+2. create it's clone on local
+    git clone [repository path] execute this in cmd 
+3. Execute below commands to push code on GIT repo
+   git init
+   git add README.md
+   git commit -m "first commit"
+   git branch -M master
+   git remote add origin https://github.com/shwetadhane/SHWETA.git
+   git push -u origin master
+4. OR you can directly commit and push from IntelJ
+5. 
