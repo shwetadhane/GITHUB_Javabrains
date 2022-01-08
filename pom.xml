@@ -70,7 +70,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>Javabrain-docker-images</finalName>
+        <finalName>springboot-images-new</finalName>
     </build>
 
 </project>
